@@ -1,0 +1,10 @@
+Parakeet TDT 0.6B v3 (int8 ONNX)
+
+Model: "parakeet-tdt-0.6b-v3" by NVIDIA, https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
+
+Changes: exported to ONNX and quantised to int8 by the k2-fsa sherpa-onnx project
+(https://github.com/k2-fsa/sherpa-onnx, Apache-2.0), published at
+https://huggingface.co/csukuangfj/sherpa-onnx-nemo-parakeet-tdt-0.6b-v3-int8.
+The files here are byte-identical copies of that export (revision
+2bda32ec70b097a55adaa07d9a7173915b43cc78); we made no further changes.
